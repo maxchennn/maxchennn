@@ -13,3 +13,13 @@
   </samp>
 </p>
 
+<p align="center">
+<samp>
+  <sup>
+    <b>
+    <i>Projects . :)</i>
+    <br>
+    <a href="https://maxchennn-alice.netlify.app/"> ☁️ Alice </a> 
+  </sup>
+</samp>
+</p>
