@@ -19,7 +19,7 @@
     <b>
     <i>Projects . :)</i>
     <br>
-    <a href="https://maxchennn-alice.netlify.app/"> ☁️ Alice </a> 
+    <a href="https://maxchennn.github.io/Alice/"> ☁️ Alice </a> 
   </sup>
 </samp>
 </p>
