@@ -24,7 +24,7 @@
      .  .  .               max@world 
     .  (  ).             ┌───────────────────────────────┐ 
    ' .-~~~-. `             OS : Linux 
-  ( (  🝊  ) )             Kernel : Linux 7.0.2-2
+  ( (  🝊  ) )              Kernel : Linux 7.0.2-2
    `. -~~- .'              WM : Hyprland 
      `|||||'               Shell : fish
       `|||'                GPU : maxchennn@GPU
