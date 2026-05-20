@@ -30,8 +30,10 @@
       `|||'                GPU : maxchennn@GPU
        `|'                 CPU : maxchennn@CPU 
         *                └───────────────────────────────┘ 
+
 magic in ~ 
   |  echo "I Cant see me cry ever again <3"
+
 ```
 
 </div>
