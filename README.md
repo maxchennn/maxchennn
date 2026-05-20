@@ -13,13 +13,4 @@
   </samp>
 </p>
 
-<p align="center">
-<samp>
-  <sup>
-    <b>
-    <i>Projects . :)</i>
-    <br>
-    <a href="https://maxchennn.github.io/Alice/"> ☁️ Alice </a> 
-  </sup>
-</samp>
-</p>
+
