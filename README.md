@@ -3,18 +3,16 @@
   <p align="center">
     <samp>
       <b>
-        | Hello world!
-      </b>
       <br>
-        I create desktop customizations for Linux & learn programming languages.
+        No taste for subtlety.
+        And no time for restraint.
+        I go all the way.
       <br><br>
-      <img src="https://img.shields.io/badge/OS-LINUX-31748f?style=for-the-badge&labelColor=1f1d2e">
-      <img src="https://img.shields.io/badge/SHELL-FISH-31748f?style=for-the-badge&labelColor=1f1d2e">
       <br><br>
       <b><font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font></b>
       <br><br>
       <b>
-        ~ @maxchennn ~
+        ~ @asherbtw ~
       </b>
     </samp>
   </p>
@@ -24,15 +22,15 @@
      .  .  .               max@world 
     .  (  ).             ┌───────────────────────────────┐ 
    ' .-~~~-. `             OS : Linux 
-  ( (  🝊  ) )              Kernel : Linux 7.0.2-2
-   `. -~~- .'              WM : Hyprland 
+  ( (  🝊  ) )              Kernel : Linux 7.0.12
+   `. -~~- .'              WM : asher 
      `|||||'               Shell : fish
-      `|||'                GPU : maxchennn@GPU
-       `|'                 CPU : maxchennn@CPU 
+      `|||'                GPU : asherbtw@GPU
+       `|'                 CPU : asherbtw@CPU 
         *                └───────────────────────────────┘ 
 
 magic in ~ 
-  |  echo "I Cant see me cry ever again <3"
+  |  echo "veni vidi vici  <3"
 
 ```
 
