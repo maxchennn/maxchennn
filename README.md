@@ -19,7 +19,7 @@
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
 ```
-     .  .  .               max@world 
+     .  .  .               asher@world 
     .  (  ).             ┌───────────────────────────────┐ 
    ' .-~~~-. `             OS : Linux 
   ( (  🝊  ) )              Kernel : Linux 7.0.12
